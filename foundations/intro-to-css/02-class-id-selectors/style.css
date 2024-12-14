@@ -2,3 +2,18 @@
     background-color: rgb(235, 136, 136);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+#unique {
+    color: blue;
+    font-size: 36px;
+}
+
+.generic.change {
+    font-size: 24px
+}
+
+#unique2 {
+    background-color: rgb(95, 197, 95);
+    font-size: 24px;
+    font-weight: 700;
+}
